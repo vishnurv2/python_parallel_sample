@@ -1,0 +1,34 @@
+[
+  {
+    "platformName" : "iOS",
+		"deviceName" : "iPhone 12",
+		"platformVersion" : "14.1",
+    "orientation":"LANDSCAPE"
+  },
+  {
+    "platformName" : "Android",
+		"deviceName" : "Google Pixel 4a",
+		"platformVersion" : "11",
+    "orientation":"LANDSCAPE"
+  },
+  {
+    "platform" : "Windows 10",
+		"browserName" : "Chrome",
+		"version" : "91.0"
+  },
+  {
+    "platform" : "MacOS Big sur",
+		"browserName" : "Safari",
+		"version" : "14.0"
+  },
+  {
+  	"platform" : "Windows 10",
+		"browserName" : "MicrosoftEdge",
+		"version" : "90.0"
+  },
+  {
+    "platform" : "Windows 10",
+		"browserName" : "Internet Explorer",
+		"version" : "11.0"
+  }
+]
