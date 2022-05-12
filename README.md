@@ -6,16 +6,15 @@ This project contains 3 files. Each of the files is described below.
 
     [
       {
-        "browserName": "iPhone",
-        "platform": "MAC",
-        "device": "iPhone 5"
+        "platform" : "Windows 10",
+         "browserName" : "Chrome",
+         "version" : "91.0"
       },
       {
-        "browser": "firefox",
-        "browser_version": "17.0",
-        "os": "Windows",
-        "os_version": "8"
-      }
+        "platform" : "MacOS Big sur",
+        "browserName" : "Safari",
+        "version" : "14.0"
+      },
     ]
 
 
